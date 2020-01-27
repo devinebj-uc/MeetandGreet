@@ -1,0 +1,25 @@
+**************************************************
+Ben Devine
+**************************************************
+
+Email: devinebj@mail.uc.edu
+
+** Personal Background:
+-------------------------
+I'm a first-year student at UCBA. I'm currently studying IT, planning to go to Main Campus for a degree in Cyber Security.
+
+** Programming Languages:
+-------------------------
+1. Java
+2. JavaScript
+3. C#
+4. Visual Basic
+5. Python
+6. Batch (maybe a lanugage?)
+
+** Achievements and Things I would like to share:
+-------------------------
+1. Built multiple computers from scratch, including my own.
+2. Self-taught myself all the languages above, except Java
+3. Developed my own game during my senior year and throughout that summer
+**************************************************
